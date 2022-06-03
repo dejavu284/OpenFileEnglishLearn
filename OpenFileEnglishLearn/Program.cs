@@ -22,6 +22,7 @@ namespace OpenFileEnglishLearn
                     Console.ReadKey(true);
                     IndexLine++;
                 }
+
                 Console.WriteLine("\n\n\n\n");
                 Console.ReadKey(true);
             }
