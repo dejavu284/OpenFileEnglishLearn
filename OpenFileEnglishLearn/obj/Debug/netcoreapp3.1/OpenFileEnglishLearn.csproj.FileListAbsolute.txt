@@ -1,0 +1,14 @@
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\bin\Debug\netcoreapp3.1\OpenFileEnglishLearn.exe
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\bin\Debug\netcoreapp3.1\OpenFileEnglishLearn.deps.json
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\bin\Debug\netcoreapp3.1\OpenFileEnglishLearn.runtimeconfig.json
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\bin\Debug\netcoreapp3.1\OpenFileEnglishLearn.runtimeconfig.dev.json
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\bin\Debug\netcoreapp3.1\OpenFileEnglishLearn.dll
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\bin\Debug\netcoreapp3.1\OpenFileEnglishLearn.pdb
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\obj\Debug\netcoreapp3.1\OpenFileEnglishLearn.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\obj\Debug\netcoreapp3.1\OpenFileEnglishLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\obj\Debug\netcoreapp3.1\OpenFileEnglishLearn.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\obj\Debug\netcoreapp3.1\OpenFileEnglishLearn.AssemblyInfo.cs
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\obj\Debug\netcoreapp3.1\OpenFileEnglishLearn.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\obj\Debug\netcoreapp3.1\OpenFileEnglishLearn.dll
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\obj\Debug\netcoreapp3.1\OpenFileEnglishLearn.pdb
+C:\Users\Я\source\repos\OpenFileEnglishLearn\OpenFileEnglishLearn\obj\Debug\netcoreapp3.1\OpenFileEnglishLearn.genruntimeconfig.cache
